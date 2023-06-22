@@ -1,0 +1,5 @@
+print("정보를 입력해주세요")
+name=input("이름: ")
+age=input("나이: ")
+address=input("주소: ")
+print("감사합니다")
